@@ -1,2 +1,2 @@
 #!/bin/bash
-printthe current working directory
+print the current working directory\n
