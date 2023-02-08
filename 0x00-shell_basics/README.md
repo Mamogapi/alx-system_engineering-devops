@@ -1,2 +1,2 @@
 #!/bin/bash
-README.md\n
+printthe current working directory
